@@ -1,4 +1,6 @@
 # model_comparison.py
+# usage: import model_comparison
+#	 model_comparison.compare_models()
 
 import librosa
 import numpy as np
